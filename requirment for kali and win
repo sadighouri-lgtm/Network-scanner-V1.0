@@ -1,0 +1,23 @@
+🛠 Requirements (Kali Linux)
+
+Kali Linux (latest recommended)
+
+Python 3.10 or higher
+
+Nmap installed
+
+Python libraries:
+
+pyfiglet
+
+python-nmap
+
+Root privileges (required for scanning)
+
+📦 Install Commands
+sudo apt update
+sudo apt install python3 python3-pip nmap -y
+pip install pyfiglet python-nmap
+
+
+⚠️ Use only on networks you own or have permission to scan.
